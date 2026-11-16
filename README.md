@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shivanshyadav335/2012/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/shivanshyadav335/2012/tree/master/0054-spiral-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/shivanshyadav335/2012/tree/master/0560-subarray-sum-equals-k) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shivanshyadav335/2012/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Binary Search
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shivanshyadav335/2012/tree/master/0054-spiral-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shivanshyadav335/2012/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
 |  |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shivanshyadav335/2012/tree/master/0560-subarray-sum-equals-k) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/shivanshyadav335/2012/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
