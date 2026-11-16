@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shivanshyadav335/2012/tree/master/0035-search-insert-position) |
+| [0560-subarray-sum-equals-k](https://github.com/shivanshyadav335/2012/tree/master/0560-subarray-sum-equals-k) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shivanshyadav335/2012/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Binary Search
 |  |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shivanshyadav335/2012/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/shivanshyadav335/2012/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/shivanshyadav335/2012/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
