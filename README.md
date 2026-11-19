@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shivanshyadav335/2012/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivanshyadav335/2012/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shivanshyadav335/2012/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0560-subarray-sum-equals-k](https://github.com/shivanshyadav335/2012/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/shivanshyadav335/2012/tree/master/0085-maximal-rectangle) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shivanshyadav335/2012/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
